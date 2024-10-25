@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+int length, breadth,area;
+
+length=10;
+breadth=20;
+
+area=length*breadth;
+printf ("%d", length);
+printf ("%d", breadth);
+printf ("%d",area);
